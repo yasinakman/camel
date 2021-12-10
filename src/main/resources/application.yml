@@ -1,0 +1,6 @@
+server:
+  port: 9090
+
+#camel.threadpool.pool-size = 5
+#camel.threadpool.max-pool-size = 5
+#camel.threadpool.max-queue-size = 1000
